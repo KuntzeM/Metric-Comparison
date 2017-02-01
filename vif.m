@@ -1,7 +1,7 @@
 function [ vif_value ] = vif( ref, dist )
 % VIF - visual information fidelity
 % full reference objective metric
-%
+% import from python: https://github.com/aizvorski/video-quality
 % input:
 % ref:   grayscale image
 %        the orginal images without distortion (reference)
